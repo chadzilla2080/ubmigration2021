@@ -1,5 +1,7 @@
 User-agent: googlebot
 Disallow: /
+Disallow: /fuel/
 
 User-agent: bingbot
 Disallow: /
+Disallow: /fuel/
