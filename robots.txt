@@ -1,7 +1,16 @@
-User-agent: googlebot
+
+User-agent: Googlebot
 Disallow: /
 Disallow: /fuel/
 
-User-agent: bingbot
+User-agent: Googlebot-Image
+Disallow: /
+Disallow: /fuel/
+
+User-agent: Bingbot
+Disallow: /
+Disallow: /fuel/
+
+User-agent: *
 Disallow: /
 Disallow: /fuel/
